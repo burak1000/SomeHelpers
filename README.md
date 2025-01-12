@@ -13,3 +13,6 @@ Block.bat:   if you want to block internet connection for a whole folder. this b
 them from firewall input and output connections. it must be run as Adminstrator
 
 
+Disable_Show_more_options_context_menu.reg :  it removes ugly windows 11 context menu to normal with one click. ♥
+
+Autologon.exe  : this file can be download direct  from microsoft its good for remove password from win11 when opening
